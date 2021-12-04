@@ -1,0 +1,64 @@
+body{
+    background-image: url("Watermelon.jpg");
+}
+.title{
+    font-size: 1000px;
+    font-family: "Andale Mono", monospace;
+    margin:0;
+    padding:0;
+    text-align:center;
+    position:absolute;
+    top: 40%;
+    left:50%;
+    transform: translateX(-50%);
+}
+.b{
+    top: 15%;
+    left:0%;
+    position:absolute
+}
+.ily{
+    top: 15%;
+    left:20%;
+    position:absolute
+}
+.my{
+    top: 15%;
+    left:40%;
+    position:absolute
+}
+.o{
+    top: 15%;
+    left:60%;
+    position:absolute
+}
+.name{
+    top: 50%;
+    left:0%;
+    position:absolute
+}
+.you{
+    top: 50%;
+    left:20%;
+    position:absolute
+}
+.good{
+    top:50%;
+    left:40%;
+    position:absolute
+}
+.hello{
+    top:50%;
+    left:60%;
+    position:absolute
+}
+.howare{
+    top:85%;
+    left:0%;
+    position:absolute
+}
+.wave{
+    top:25%;
+    left:20%;
+    position:absolute
+}
